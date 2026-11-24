@@ -1,0 +1,5 @@
+module github.com/kasi-x/gemini-chat
+
+go 1.27.4
+
+require github.com/coder/websocket v1.8.15 // indirect
